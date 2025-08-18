@@ -9,4 +9,4 @@ alias release="cat /etc/os-release"
 
 alias commit="git add .; git commit -m"
 alias push="git push"
-alias ifconfigme="curl ifconfig.me"
+alias publicip="curl ifconfig.me"
