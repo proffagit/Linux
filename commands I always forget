@@ -1,0 +1,5 @@
+# list content in paths sorted by file size.
+du -sh ~/.* ~/* | sort -h
+
+# list drives
+df -h
