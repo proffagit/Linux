@@ -5,3 +5,6 @@ du -sh ~/snap/* | sort -h
 
 # list drives
 df -h
+
+# list proecessor count
+nproc
