@@ -8,3 +8,6 @@ df -h
 
 # list proecessor count
 nproc
+
+# remove old fingerprint 
+ssh-keygen -f '/home/proffa/.ssh/known_hosts' -R '179.155.187.238'
